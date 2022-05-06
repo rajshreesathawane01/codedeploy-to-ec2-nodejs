@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/ubuntu
-npm -f install
+yum install npm
