@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd /home/ubuntu
-sudo apt install npm nodejs
+sudo yum install npm # also installs nodejs
